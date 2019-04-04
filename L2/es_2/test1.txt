@@ -1,0 +1,4 @@
+Testing my_cat file
+This file contains
+Random strings
+You should be able too see me :o
